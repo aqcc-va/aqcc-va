@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aqcc-va
 - 👀 I’m interested in algorithms, basketball
-- 🌱 I’m currently learning quantum computation
+- 🌱 I’m currently working on quantum algorithms
 - 💞️ I’m looking to collaborate on quantum algorithms
 - 📫 How to reach me aqcc.va@gmail.com
 - 😄 Pronouns: ...
